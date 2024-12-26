@@ -25,13 +25,13 @@ Set 1 (Neutral-rated samples) - Minor complaints:
 
 1."Story concluded too quickly and was anticlimactic, but a good read."
 
-  - Model Classification: Neutral (minor complaint)
+- Model Classification: Neutral (minor complaint)
 2. "Not bad, good solid tour of Italy. Ending could have been more exciting...."
 
-  - Model Classification: Neutral (minor complaint)
+- Model Classification: Neutral (minor complaint)
 3. "I liked the book but I believe it could use more action and details! BOOM SAUCE! ;) ;) ;) :) :) :)"
 
-  - Model Classification: Neutral (minor complaint)
+- Model Classification: Neutral (minor complaint)
 4. "Good book, loved it, just dragged on a tiny bit."
 
   - Model Classification: Positive
