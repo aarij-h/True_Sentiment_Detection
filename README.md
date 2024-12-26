@@ -59,3 +59,16 @@ d] "I cannot really rate the movie. The very poor streaming of it made it unbear
 Observations from the Examples:
 Set 1 generally indicates a "decent" product with minor complaints (aligned with our definition of Neutral).
 Set 2, on the other hand, is more consistent with a "Bad" or "Negative" product, despite being rated as Neutral.
+<br>
+Thus, while the Neutral class does not always align with what we expect, the model still performs well in distinguishing Positive and Negative sentiment, especially for Set 2, which can be classified as more critical reviews.
+
+# Model Performance
+
+Now we take a look at a few metrics to evaluate how our model performs.
+
+Class | Precision| Recall | f1-score
+---| ---| ---| ---
+Negative | 0.73| 0.77| 0.75
+Neutral| 0.65| 0.57| 0.61
+Positive| 0.78| 0.84| 0.80
+Total Accuracy| ---| ---| 0.73
