@@ -40,6 +40,7 @@ d] "As good as her other book, The Husband's Secret. A good read!"
 - Model Classification: Positive
   
 Set 2 (Neutral-rated samples) - Major complaints:
+
 a] "Keeps shutting down. Not pleased with this app."
 
 - Model Classification: Negative (major complaint)
