@@ -26,15 +26,19 @@ Set 1 (Neutral-rated samples) - Minor complaints:
 a]"Story concluded too quickly and was anticlimactic, but a good read."
 
 - Model Classification: Neutral (minor complaint)
+  
 b] "Not bad, good solid tour of Italy. Ending could have been more exciting...."
 
 - Model Classification: Neutral (minor complaint)
+  
 c] "I liked the book but I believe it could use more action and details! BOOM SAUCE! ;) ;) ;) :) :) :)"
 
 - Model Classification: Neutral (minor complaint)
+
 d] "Good book, loved it, just dragged on a tiny bit."
 
 - Model Classification: Positive
+  
 e] "As good as her other book, The Husband's Secret. A good read!"
 
 - Model Classification: Positive
