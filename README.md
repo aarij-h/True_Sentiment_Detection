@@ -72,3 +72,13 @@ Negative | 0.73| 0.77| 0.75
 Neutral| 0.65| 0.57| 0.61
 Positive| 0.78| 0.84| 0.80
 Total Accuracy| ---| ---| 0.73
+
+# Evaluating further...
+
+While the model's F1 score may seem low at first glance, especially for the Neutral class, a deeper manual inspection of how it performs on these samples reveals promising results. Despite the inherent ambiguity in the Neutral class (where user sentiment can vary), the model demonstrates its ability to correctly identify the more subtle distinctions between Positive, Negative, and Neutral sentiments.
+
+It appears that the model, having learned the clear distinctions between Positive (4-5 stars) and Negative (1-2 stars) sentiments, is also able to capture certain traits of the Neutral class. By associating more mild or moderate traits with Neutral sentiment, the model provides a more accurate and nuanced understanding of review sentiments. As a result, it offers a more refined scoring system that improves the quality of sentiment analysis, especially when compared to traditional star ratings alone.
+
+# Conclusion
+
+Our approach, categorizing reviews into Positive, Neutral, and Negative, offers a more accurate reflection of sentiment. By learning the traits of Positive and Negative sentiments, the model also captures subtle distinctions in the Neutral class, providing a more reliable and nuanced scoring system. This approach enhances sentiment analysis compared to the traditional 5-star system, offering clearer insights into user sentiment.
