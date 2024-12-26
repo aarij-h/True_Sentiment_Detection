@@ -1,6 +1,6 @@
 # True_Sentiment_Detection
 
-The goal of this project is to produce a more accuracte reflection of product sentiment using NLP, compared to the standard 5-star rating system. 
+The goal of this project is to create a framework for producing a more accuracte reflection of product sentiment using NLP, compared to the standard 5-star rating system. 
 
 # Environment
 - Python
