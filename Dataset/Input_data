@@ -1,0 +1,7 @@
+The original dataset used for collecting the amazon reviews on products and services ( via Kaggle )  - 
+
+https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset: amazon_reviews_multilingual_US_v1_00.tsv
+
+The dataset contains the customer review text with accompanying metadata.
+
+A collection of reviews written in the Amazon.com marketplace and associated metadata from 1995 until 2015. This is intended to facilitate study into the properties (and the evolution) of customer reviews potentially including how people evaluate and express their experiences with respect to products at scale.
