@@ -22,38 +22,37 @@ While the Neutral class may not be consistent across all samples, we can still t
 **Example of Neutral-rated Samples:**
 
 Set 1 (Neutral-rated samples) - Minor complaints:
-
-a]"Story concluded too quickly and was anticlimactic, but a good read."
+  
+a] "Not bad, good solid tour of Italy. Ending could have been more exciting...."
 
 - Model Classification: Neutral (minor complaint)
   
-b] "Not bad, good solid tour of Italy. Ending could have been more exciting...."
-
-- Model Classification: Neutral (minor complaint)
-  
-c] "I liked the book but I believe it could use more action and details! BOOM SAUCE! ;) ;) ;) :) :) :)"
+b] "I liked the book but I believe it could use more action and details! BOOM SAUCE! ;) ;) ;) :) :) :)"
 
 - Model Classification: Neutral (minor complaint)
 
-d] "Good book, loved it, just dragged on a tiny bit."
+c] "Good book, loved it, just dragged on a tiny bit."
 
 - Model Classification: Positive
   
-e] "As good as her other book, The Husband's Secret. A good read!"
+d] "As good as her other book, The Husband's Secret. A good read!"
 
 - Model Classification: Positive
   
 Set 2 (Neutral-rated samples) - Major complaints:
-1. "Keeps shutting down. Not pleased with this app."
+a] "Keeps shutting down. Not pleased with this app."
 
 - Model Classification: Negative (major complaint)
-2. "Takes too long for energy to recharge."
+
+b] "Takes too long for energy to recharge."
 
 - Model Classification: Negative (major complaint)
-3. "Not what I really wanted, didn't fit my ear! But cost time and money to send back!"
+
+c] "Not what I really wanted, didn't fit my ear! But cost time and money to send back!"
 
 - Model Classification: Negative (major complaint)
-4. "I cannot really rate the movie. The very poor streaming of it made it unbearable to watch."
+  
+d] "I cannot really rate the movie. The very poor streaming of it made it unbearable to watch."
 
 - Model Classification: Negative (major complaint)
 
