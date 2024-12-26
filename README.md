@@ -1,6 +1,16 @@
 # True_Sentiment_Detection
 
-The goal of this project is to assess user sentiment toward a product or service based on their review descriptions. While product ratings (out of 5 stars) are commonly used to gauge sentiment, they do not always reflect the true sentiment of the review. This is due to the ambiguity in how users interpret the star rating, especially for ratings that fall in the middle of the scale (e.g., a 3-star rating).
+The goal of this project is to produce a more accuracte reflection of product sentiment using NLP, compared to the standard 5-star rating system. 
+
+# Environment
+- Python
+- NumPy
+- PyTorch
+- SkLearn
+- GPU environment
+
+# Problem Statement
+While product ratings (out of 5 stars) are commonly used to gauge sentiment, they do not always reflect the true sentiment of the review. This is due to the ambiguity in how users interpret the star rating, especially for ratings that fall in the middle of the scale (e.g., a 3-star rating).
 
 For instance, users who rate a product 3 stars might have vastly different opinions about the product. While many might consider a 3-star rating as indicating a "decent" product with minor issues, others might rate the product 3 stars despite having major complaints, which should arguably be classified as "negative." This discrepancy in sentiment categorization becomes challenging when trying to infer accurate product sentiment from star ratings alone.
 
