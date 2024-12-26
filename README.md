@@ -19,7 +19,7 @@ While the Neutral class may not be consistent across all samples, we can still t
 - Positive (4-5 stars) and Negative (1-2 stars) samples are more straightforward for the model to classify, as the sentiment is clearly defined.
 - Neutral (3 stars) samples, however, show more variability. Some samples indicate a product with minor issues ("decent"), while others show more significant problems, creating a misalignment with the traditional idea of a "neutral" rating.
 
-** Example of Neutral-rated Samples: **
+**Example of Neutral-rated Samples:**
 
 Set 1 (Neutral-rated samples) - Minor complaints:
 
